@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcmusic
 - 👀 I’m interested in composing instrumental music.
-- 🌱 I’m currently working on transforming numbers into music.
+- 🌱 I’m currently working on creating math-inspired music.
 - 💥 I’m looking to collaborate on this topic if interested.
 
 <!---
